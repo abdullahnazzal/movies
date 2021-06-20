@@ -1,0 +1,35 @@
+header h1{
+    text-align: center;
+     color: green;
+     background-color: black;
+}
+header nav ul li{
+     color: green;
+     border: 1px solid blue;
+     display: inline-block;
+     width: 400px;
+}
+article{
+    border: 2px solid blue;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+}
+img{
+    float: left;
+    width: 500px;
+    height:350px;
+
+}
+p{
+    float: right;
+    width: 500px;
+    height:350px;
+}
+
+section{
+    clear: both;
+}
+footer{
+    border: 2px solid blue;
+}
